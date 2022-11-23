@@ -7,4 +7,4 @@ Heart Disease Prediction using Machine Learning Algorithm (Logistic Regression).
 
 
 
-Link for the google collab file : "https://colab.research.google.com/drive/1cAlnoOhBZXIRNFdCpVHeSiPXvGQcvFfz?usp=sharing"
+Link for the google collab file: "https://colab.research.google.com/drive/1cAlnoOhBZXIRNFdCpVHeSiPXvGQcvFfz?usp=sharing"
